@@ -1,4 +1,4 @@
-# Use-Fuzzy-logic-to-locus-predict
+# LSTM & Fuzzt logic to predict car locus 
 combine Fuzzy logic and LSTM on cars locus predict, can use on car Overtake or dynamic obstacle avoidance
 
 ## requirement
